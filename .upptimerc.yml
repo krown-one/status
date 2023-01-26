@@ -17,14 +17,14 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://krown.one/assets/img/logo.svg
   favicon: https://www.krown.one/assets/favicon/favicon-16x16.png
-  theme: dark
-  name: Status Krown sistem
+  theme: night
+  name: Status Krown
   introTitle: "Status"
   introMessage: home
   navbar:
     - title: Status
       href: /
-    - title: Web
+    - title: Krown
       href: https://www.krown.one/
 
 # Upptime also supports notifications, assigning issues, and more
