@@ -16,9 +16,11 @@ status-website:
   cname: status.krown.one
   # baseUrl: /your-repo-name
   logoUrl: https://krown.one/assets/img/logo.svg
+  favicon: https://www.krown.one/assets/favicon/favicon-16x16.png
+  theme: dark
   name: Status Krown sistem
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status"
+  introMessage: home
   navbar:
     - title: Status
       href: /
