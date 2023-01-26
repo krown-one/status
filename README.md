@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.kroen.one): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.krown.one): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [krown-one](https://status.kroen.one), powered by [Upptime](https://github.com/upptime/upptime).
 
