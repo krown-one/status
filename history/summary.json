@@ -1,42 +1,42 @@
 [
   {
     "name": "Web",
-    "url": "https://www.kroen.one/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.kroen.one.ico",
+    "url": "https://www.krown.one/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.krown.one.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "10.04%",
-    "uptimeDay": "10.04%",
-    "uptimeWeek": "10.04%",
-    "uptimeMonth": "10.04%",
-    "uptimeYear": "10.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.67%",
+    "uptimeDay": "2.67%",
+    "uptimeWeek": "2.67%",
+    "uptimeMonth": "2.67%",
+    "uptimeYear": "2.67%",
+    "time": 480,
+    "timeDay": 480,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2023-01-26": 0
+      "2023-01-26": 4
     }
   },
   {
     "name": "Dev Web",
-    "url": "https://dev.kroen.one/",
-    "icon": "https://icons.duckduckgo.com/ip3/dev.kroen.one.ico",
+    "url": "https://dev.krown.one/",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.krown.one.ico",
     "slug": "dev-web",
-    "status": "down",
-    "uptime": "7.31%",
-    "uptimeDay": "7.31%",
-    "uptimeWeek": "7.31%",
-    "uptimeMonth": "7.31%",
-    "uptimeYear": "7.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.32%",
+    "uptimeDay": "1.32%",
+    "uptimeWeek": "1.32%",
+    "uptimeMonth": "1.32%",
+    "uptimeYear": "1.32%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-01-26": 0
+      "2023-01-26": 4
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   }
 ]
