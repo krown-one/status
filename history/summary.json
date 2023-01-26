@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.krown.one.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "2.67%",
-    "uptimeDay": "2.67%",
-    "uptimeWeek": "2.67%",
-    "uptimeMonth": "2.67%",
-    "uptimeYear": "2.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 480,
     "timeDay": 480,
     "timeWeek": 480,
     "timeMonth": 480,
     "timeYear": 480,
-    "dailyMinutesDown": {
-      "2023-01-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dev Web",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.krown.one.ico",
     "slug": "dev-web",
     "status": "up",
-    "uptime": "1.32%",
-    "uptimeDay": "1.32%",
-    "uptimeWeek": "1.32%",
-    "uptimeMonth": "1.32%",
-    "uptimeYear": "1.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2023-01-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Assets Impulso",
