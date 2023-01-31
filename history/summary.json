@@ -4,19 +4,19 @@
     "url": "https://www.krown.one/",
     "icon": "https://icons.duckduckgo.com/ip3/www.krown.one.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 881,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 330,
+    "timeDay": 652,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-01-31": 0
+      "2023-01-31": 21
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://branded.krown.one/impulso/",
     "icon": "https://icons.duckduckgo.com/ip3/branded.krown.one.ico",
     "slug": "assets-impulso",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 269,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 241,
+    "timeDay": 335,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-01-31": 0
+      "2023-01-31": 21
     }
   }
 ]
