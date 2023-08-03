@@ -7,8 +7,8 @@ sites:
     url: https://www.krown.one/
   - name: Dev Web
     url: https://dev.krown.one/
-  - name: Fairytale
-    url: https://fairytale.krown.one/
+  - name: Lustrall
+    url: https://lustrall.krown.one/
   - name: Assets Impulso
     url: https://branded.krown.one/impulso/
 
