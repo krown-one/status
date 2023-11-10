@@ -8,7 +8,7 @@ sites:
   - name: Dev Web
     url: https://dev.krown.one/
   - name: Lustrall
-    url: https://lustrall.krown.one/
+    url: https://lustrall.krown.one/status
   - name: Assets Impulso
     url: https://branded.krown.one/impulso/
 
