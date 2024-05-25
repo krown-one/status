@@ -10,7 +10,7 @@ sites:
   - name: Lustrall Web
     url: https://lustrall.krown.one/status
   - name: Lustrall Service Auth
-    url: https://api-home.lustrall.one/health-check
+    url: https://api-home.lustrall.one/health-check/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
