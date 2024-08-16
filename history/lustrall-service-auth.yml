@@ -1,7 +1,7 @@
 url: https://api-home.lustrall.one/health-check/
-status: down
-code: 530
-responseTime: 325
-lastUpdated: 2024-08-16T20:26:37.471Z
+status: up
+code: 200
+responseTime: 245
+lastUpdated: 2024-08-16T20:37:05.792Z
 startTime: 2024-05-25T06:54:13.544Z
 generator: Upptime <https://github.com/upptime/upptime>
