@@ -4,10 +4,10 @@
     "url": "https://www.krown.one/",
     "icon": "https://icons.duckduckgo.com/ip3/www.krown.one.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
@@ -16,6 +16,7 @@
     "timeMonth": 237,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2024-12-21": 1,
       "2024-01-02": 17
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://dev.krown.one/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.krown.one.ico",
     "slug": "dev-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
@@ -35,16 +36,18 @@
     "timeWeek": 203,
     "timeMonth": 206,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-21": 1
+    }
   },
   {
     "name": "Lustrall Web",
     "url": "https://lustrall.krown.one/status",
     "icon": "https://icons.duckduckgo.com/ip3/lustrall.krown.one.ico",
     "slug": "lustrall-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +56,9 @@
     "timeWeek": 262,
     "timeMonth": 187,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-21": 0
+    }
   },
   {
     "name": "Lustrall Service Auth",
