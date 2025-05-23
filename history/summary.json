@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.krown.one.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 163,
-    "timeWeek": 220,
-    "timeMonth": 298,
+    "time": 252,
+    "timeDay": 462,
+    "timeWeek": 247,
+    "timeMonth": 306,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2024-12-21": 17
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 142,
-    "timeWeek": 250,
-    "timeMonth": 493,
-    "timeYear": 252,
+    "timeDay": 399,
+    "timeWeek": 271,
+    "timeMonth": 499,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2024-12-21": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 129,
-    "timeWeek": 170,
-    "timeMonth": 230,
-    "timeYear": 197,
+    "time": 198,
+    "timeDay": 362,
+    "timeWeek": 196,
+    "timeMonth": 236,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2024-12-21": 16
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
     "time": 322,
-    "timeDay": 278,
-    "timeWeek": 275,
-    "timeMonth": 295,
+    "timeDay": 328,
+    "timeWeek": 282,
+    "timeMonth": 297,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2024-08-26": 100,
