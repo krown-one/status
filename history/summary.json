@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 234,
-    "timeWeek": 314,
-    "timeMonth": 249,
+    "timeDay": 273,
+    "timeWeek": 321,
+    "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2024-12-21": 17
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 273,
-    "timeWeek": 290,
-    "timeMonth": 229,
-    "timeYear": 263,
+    "timeDay": 223,
+    "timeWeek": 298,
+    "timeMonth": 233,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2024-12-21": 16
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
-    "timeDay": 200,
-    "timeWeek": 196,
-    "timeMonth": 201,
+    "timeDay": 347,
+    "timeWeek": 222,
+    "timeMonth": 209,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-08-26": 27,
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-home.lustrall.one.ico",
     "slug": "lustrall-service-auth",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 283,
-    "timeWeek": 277,
-    "timeMonth": 285,
+    "time": 338,
+    "timeDay": 365,
+    "timeWeek": 296,
+    "timeMonth": 289,
     "timeYear": 352,
     "dailyMinutesDown": {}
   }
