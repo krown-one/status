@@ -65,19 +65,19 @@
     "url": "https://api-home.lustrall.one/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/api-home.lustrall.one.ico",
     "slug": "lustrall-service-auth",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
     "time": 342,
-    "timeDay": 163,
-    "timeWeek": 249,
-    "timeMonth": 327,
+    "timeDay": 173,
+    "timeWeek": 246,
+    "timeMonth": 323,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 91
     }
   }
 ]
