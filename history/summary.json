@@ -6,8 +6,8 @@
     "slug": "web",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
@@ -16,6 +16,7 @@
     "timeMonth": 283,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2025-11-20": 1,
       "2024-12-21": 17
     }
   },
@@ -26,17 +27,17 @@
     "slug": "dev-web",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 214,
     "timeWeek": 246,
     "timeMonth": 290,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-11-20": 0,
+      "2025-11-20": 13,
       "2024-12-21": 16
     }
   },
@@ -47,9 +48,9 @@
     "slug": "lustrall-web",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 211,
     "timeDay": 216,
@@ -57,7 +58,7 @@
     "timeMonth": 232,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-11-20": 0,
+      "2025-11-20": 13,
       "2025-08-26": 27,
       "2024-12-21": 16
     }
