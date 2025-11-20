@@ -24,9 +24,9 @@
     "url": "https://dev.krown.one/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.krown.one.ico",
     "slug": "dev-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 290,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2025-11-20": 0,
       "2024-12-21": 16
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://lustrall.krown.one/status",
     "icon": "https://icons.duckduckgo.com/ip3/lustrall.krown.one.ico",
     "slug": "lustrall-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -56,6 +57,7 @@
     "timeMonth": 232,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2025-11-20": 0,
       "2025-08-26": 27,
       "2024-12-21": 16
     }
